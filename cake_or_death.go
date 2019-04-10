@@ -1,5 +1,5 @@
 package c
 
 func CakeOrDeath() string {
-	return "cake, please"
+	return "sorry, all out of cake... your choice is 'or death'"
 }
